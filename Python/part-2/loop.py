@@ -1,4 +1,4 @@
 x=9
-while True:
+while (x):
     x-=1
-    print(x)
+    print(x,"hello")
