@@ -1,5 +1,7 @@
 class Student:
-    def __init__(self,name,cgpa):
+    def __init__(self):
+        print("check")#singel constructor
+    def __init__(self,name,cgpa):#parameterized constructor
         self.name=name
         self.__cgpa=cgpa
     def get_gpa(self):
