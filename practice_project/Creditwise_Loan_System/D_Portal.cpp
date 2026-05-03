@@ -17,7 +17,8 @@ const int N = 1e5 + 5;
 
 void solve()
 {
-    sdasdvasdv int n, x, y;
+
+    int n, x, y;
     cin >> n >> x >> y;
 
     vector<int> a(n);
